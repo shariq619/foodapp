@@ -10,5 +10,8 @@
 	
 	<li class="header">Sales</li>
     <li><a href="sales.php"><i class="fa fa-link"></i> <span>Sales</span></a></li>
+	
+	<li class="header">Accommodations</li>
+    <li><a href="accommodations.php"><i class="fa fa-link"></i> <span>Accommodations</span></a></li>
 
 </ul>
