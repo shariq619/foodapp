@@ -8,7 +8,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "app";
+$dbname = "foodapp";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
